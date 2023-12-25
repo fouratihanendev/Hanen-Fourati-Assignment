@@ -1,0 +1,14 @@
+C:\repos\Hanen Fourati Assignment\Shaps Project\bin\Debug\net8.0\Shaps Project.exe
+C:\repos\Hanen Fourati Assignment\Shaps Project\bin\Debug\net8.0\Shaps Project.deps.json
+C:\repos\Hanen Fourati Assignment\Shaps Project\bin\Debug\net8.0\Shaps Project.runtimeconfig.json
+C:\repos\Hanen Fourati Assignment\Shaps Project\bin\Debug\net8.0\Shaps Project.dll
+C:\repos\Hanen Fourati Assignment\Shaps Project\bin\Debug\net8.0\Shaps Project.pdb
+C:\repos\Hanen Fourati Assignment\Shaps Project\obj\Debug\net8.0\Shaps Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Hanen Fourati Assignment\Shaps Project\obj\Debug\net8.0\Shaps Project.AssemblyInfoInputs.cache
+C:\repos\Hanen Fourati Assignment\Shaps Project\obj\Debug\net8.0\Shaps Project.AssemblyInfo.cs
+C:\repos\Hanen Fourati Assignment\Shaps Project\obj\Debug\net8.0\Shaps Project.csproj.CoreCompileInputs.cache
+C:\repos\Hanen Fourati Assignment\Shaps Project\obj\Debug\net8.0\Shaps Project.dll
+C:\repos\Hanen Fourati Assignment\Shaps Project\obj\Debug\net8.0\refint\Shaps Project.dll
+C:\repos\Hanen Fourati Assignment\Shaps Project\obj\Debug\net8.0\Shaps Project.pdb
+C:\repos\Hanen Fourati Assignment\Shaps Project\obj\Debug\net8.0\Shaps Project.genruntimeconfig.cache
+C:\repos\Hanen Fourati Assignment\Shaps Project\obj\Debug\net8.0\ref\Shaps Project.dll
